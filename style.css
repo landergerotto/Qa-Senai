@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto';
+}
+label {
+    display: inline-block;
+}
+.inputs {
+    background-color: rgb(212, 212, 212);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+}
+.nome {
+    margin-bottom: 20px;
+}
+.mensagem {
+    margin-bottom: 20px;
+}
